@@ -156,7 +156,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
-        Spechal\Lcgp\LcgpServiceProvider::class, 
+        Spechal\Lcgp\LcgpServiceProvider::class,
 
     ],
 
